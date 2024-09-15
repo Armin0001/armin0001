@@ -6,11 +6,11 @@ So my name is Armin Isaković. I've been in web development for over a year now 
 I'm a software engineering graduate with over a year of working experience. I'm currently working in Artco Group as a full stack developer. Born in Zenica, Bosnia and Herzegovina and I'm 27.
 
 # Technical Skills 🛠️
-Languages: JavaScript, Python, TypeScript
-Frameworks & Libraries: React, Next.js, Node.js, Nuxt.js
-Tools & Platforms: GitHub, Vercel, Railway
-Databases: Firebase, PostgreSQL
-Data Science & AI: AI Integration, R, charts.js library for efficiantly displaying analysed data and I also took Probability and Statistics 
+- Languages: JavaScript, Python, TypeScript
+- Frameworks & Libraries: React, Next.js, Node.js, Nuxt.js
+- Tools & Platforms: GitHub, Vercel, Railway
+- Databases: Firebase, PostgreSQL
+- Data Science & AI: AI Integration, R, charts.js library for efficiantly displaying analysed data and I also took Probability and Statistics 
 
 # Key Projects 📚
 Well, I'm going to just list my portofolio which contains some of the projects I've made and the link is https://portofolio-phi-sepia.vercel.app/signin  
@@ -23,8 +23,8 @@ Well, I'm going to just list my portofolio which contains some of the projects I
 Commited to continues learning and focused on successfully advancing my career in the direction I'd like it to advance.
 
 # Connect with Me 📬
-LinkedIn: https://www.linkedin.com/in/armin-isakovi%C4%87-b07b24215/
-Email: armin.isakovic23@gmail.com
+- LinkedIn: https://www.linkedin.com/in/armin-isakovi%C4%87-b07b24215/
+- Email: armin.isakovic23@gmail.com
 
 <!--
 **Armin0001/armin0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
