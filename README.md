@@ -41,6 +41,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-Enjoy this GIF:
 ![ezgif-7-d3b980604a](https://github.com/user-attachments/assets/8ab4804f-5b77-41f8-a012-c2c98fcacf1c)
 
