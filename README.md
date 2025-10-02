@@ -3,7 +3,7 @@
 So my name is Armin Isaković. I've been in web development for over a year now. I enjoy writing code, it's something that I'm really passionate about, it's what I do and it's something I'd like to continue to do in the future. 
 
 # About me
-I'm a software engineering graduate with over a year of working experience. I'm currently working in Artco Group as a full stack developer. Born in Zenica, Bosnia and Herzegovina and I'm 27.
+I'm a software engineering graduate with over a year of working experience. I'm currently working in Artco Group as a full stack developer. Born in Zenica, Bosnia and Herzegovina and I'm 28.
 
 # Technical Skills 🛠️
 - Languages: JavaScript, Python, TypeScript
