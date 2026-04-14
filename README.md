@@ -26,6 +26,9 @@ Would probably like to learn a bit more of Java Spring in the coming days. Think
 - LinkedIn: https://www.linkedin.com/in/armin-isakovi%C4%87-b07b24215/
 - Email: armin.isakovic23@gmail.com
 
+# ⚡ Fun fact: ...
+- I've got over 1400 lessons watched on Frontend Masters 😬😬😬
+- Proof 🙈 https://frontendmasters.com/u/Armin0001/
 <!--
 **Armin0001/armin0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
