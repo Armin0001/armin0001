@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-So my name is Armin Isaković. I've been in web development for over 3 years now. I enjoy writing code, it's something that I'm really passionate about, so naturally it is my profession.
+So my name is Armin Isaković. I've been in web development for over 3 years now. I enjoy writing code, it's something that I'm really passionate about, so I'm really grateful that I can do this as my profession. :)
 
 # About me
 I'm a software engineering graduate with over a year of working experience. I'm currently working in Artco Group as a full stack developer. Born in Zenica, Bosnia and Herzegovina and I'm 28.
