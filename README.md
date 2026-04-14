@@ -17,7 +17,7 @@ Some of my best work can be found over on this website and I'm quite proud of th
 
 # Leadership & Advocacy 🌟
 - I've been a mentor for 2 junior web developers during a course of 2 months in the year 2023. It was a humbling experience and I also learned a bunch teaching intro to web dev.
-- I've been the most senior developer in a team of two other junior developers where I've guided and gave intructions to some degree on where the project should go in a project we've worked on this year (2024). Helped with code reviews and worked on clearing any bugs that the we faced.
+- I've been a team lead at one point (2024). 
 
 # Professional Goals 🚀
 Commited to continues learning and focused on successfully advancing my career in the direction I'd like it to advance.
