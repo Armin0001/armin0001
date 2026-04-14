@@ -9,7 +9,7 @@ I'm a software engineering graduate with over a year of working experience. I'm 
 - Languages: JavaScript, Python, TypeScript
 - Frameworks & Libraries: React, Next.js, Node.js, Nuxt.js
 - Tools & Platforms: GitHub, Vercel, Railway
-- Databases: Firebase, PostgreSQL
+- Databases: Firebase, PostgreSQL, MongoDB, MySQL
 - Data Science & AI: AI Integration, R, charts.js library for efficiantly displaying analysed data and I also took Probability and Statistics 
 
 # Key Projects 📚
