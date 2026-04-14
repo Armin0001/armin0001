@@ -20,7 +20,7 @@ Some of my best work can be found over on this website and I'm quite proud of th
 - I've been a team lead at one point (2024). 
 
 # Professional Goals 🚀
-Commited to continues learning and focused on successfully advancing my career in the direction I'd like it to advance.
+Would probably like to learn a bit more of Java in the coming days :)
 
 # Connect with Me 📬
 - LinkedIn: https://www.linkedin.com/in/armin-isakovi%C4%87-b07b24215/
