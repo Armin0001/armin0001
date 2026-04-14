@@ -13,7 +13,7 @@ I'm a software engineering graduate with over a year of working experience. I'm 
 - Data Science & AI: AI Integration, R, various npm packages :)
 
 # Key Projects 📚
-Well, I'm going to just list my portofolio which contains some of the projects I've made and the link is https://portofolio-phi-sepia.vercel.app/signin  
+Some of my best work can be found over on this website and I'm quite proud of the AI Movie Suggestor one! https://portofolio-phi-sepia.vercel.app/signin  
 
 # Leadership & Advocacy 🌟
 - I've been a mentor for 2 junior web developers during a course of 2 months in the year 2023. It was a humbling experience and I also learned a bunch teaching intro to web dev.
