@@ -10,7 +10,7 @@ I'm a software engineering graduate with over a year of working experience. I'm 
 - Frameworks & Libraries: React, Next.js, Node.js, Nuxt.js
 - Tools & Platforms: GitHub, Vercel, Railway
 - Databases: Firebase, PostgreSQL, MongoDB, MySQL
-- Data Science & AI: AI Integration, R, charts.js library for efficiantly displaying analysed data and I also took Probability and Statistics 
+- Data Science & AI: AI Integration, R, various npm packages :)
 
 # Key Projects 📚
 Well, I'm going to just list my portofolio which contains some of the projects I've made and the link is https://portofolio-phi-sepia.vercel.app/signin  
