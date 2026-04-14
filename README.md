@@ -20,7 +20,7 @@ Some of my best work can be found over on this website and I'm quite proud of th
 - I've been a team lead at one point (2024). 
 
 # Professional Goals 🚀
-Would probably like to learn a bit more of Java in the coming days :)
+Would probably like to learn a bit more of Java Spring in the coming days. Think it's quite popular, got some degree of knowledge already as I'm about half way done through this one https://frontendmasters.com/courses/spring-boot/
 
 # Connect with Me 📬
 - LinkedIn: https://www.linkedin.com/in/armin-isakovi%C4%87-b07b24215/
