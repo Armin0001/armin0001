@@ -1,50 +1,73 @@
-## Hi there 👋
+# Armin Isaković — Full Stack Developer
 
-So my name is Armin Isaković. I've been in web development for over 3 years now. I enjoy writing code, it's something that I'm really passionate about, so I'm really grateful that I can do this as my profession. :)
+> Crafting performant web applications with clean architecture and a strong eye for product quality.
 
-# About me
-I'm a software engineering graduate with over a year of working experience. I'm currently working in Artco Group as a full stack developer. Born in Zenica, Bosnia and Herzegovina and I'm 28.
+---
 
-# Technical Skills 🛠️
-- Languages: JavaScript, Python, TypeScript
-- Frameworks & Libraries: React, Next.js, Node.js, Nuxt.js
-- Tools & Platforms: GitHub, Vercel, Railway
-- Databases: Firebase, PostgreSQL, MongoDB, MySQL
-- Data Science & AI: AI Integration, R, various npm packages :)
+## 👨‍💻 About Me
 
-# Key Projects 📚
-Some of my best work can be found over on this website and I'm quite proud of the AI Movie Suggestor one! https://portofolio-phi-sepia.vercel.app/signin  
+I'm a **Software Engineering graduate** and full-stack developer with **3+ years of hands-on experience** building web applications. Currently working at **Artco Group**, where I contribute across the full stack — from scalable backend APIs to polished frontend interfaces.
 
-# Leadership & Advocacy 🌟
-- I've been a mentor for 2 junior web developers during a course of 2 months in the year 2023. It was a humbling experience and I also learned a bunch teaching intro to web dev.
-- I've been a team lead at one point (2024). 
+I care deeply about writing maintainable, well-structured code and continuously pushing my technical boundaries. Based in **Zenica, Bosnia and Herzegovina**.
 
-# Professional Goals 🚀
-Would probably like to learn a bit more of Java Spring in the coming days. Think it's quite popular, got some degree of knowledge already as I'm about half way done through this one https://frontendmasters.com/courses/spring-boot/
+---
 
-# Connect with Me 📬
-- LinkedIn: https://www.linkedin.com/in/armin-isakovi%C4%87-b07b24215/
-- Email: armin.isakovic23@gmail.com
+## 🛠️ Technical Skills
 
-# ⚡ Fun fact: ...
-- I've got over 1400 lessons watched on Frontend Masters 😬😬😬
-- Proof 🙈 https://frontendmasters.com/u/Armin0001/
-<!--
-**Armin0001/armin0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+`JavaScript` `TypeScript` `Python` `R`
 
-Here are some ideas to get you started:
+**Frameworks & Libraries**
+`React` `Next.js` `Node.js` `Nuxt.js`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
-<!---
-![ezgif-7-d3b980604a](https://github.com/user-attachments/assets/8ab4804f-5b77-41f8-a012-c2c98fcacf1c)
--->
+**Databases**
+`PostgreSQL` `MySQL` `MongoDB` `Firebase`
 
+**Tools & Platforms**
+`Git / GitHub` `Vercel` `Railway`
+
+**Additional**
+`AI Integration` `REST APIs` `Data Science fundamentals`
+
+---
+
+## 🚀 Key Projects
+
+Check out my full project portfolio here:
+🔗 **[armin-portfolio.vercel.app](https://portofolio-phi-sepia.vercel.app/signin)**
+
+**Highlight — AI Movie Suggestor**
+An AI-powered recommendation app that suggests movies based on user preferences. Built with modern web technologies and integrated AI APIs for intelligent, personalized suggestions.
+
+---
+
+## 🌟 Leadership & Mentorship
+
+- **Mentor (2023)** — Guided 2 junior developers through a 2-month web development bootcamp, covering HTML/CSS/JS fundamentals. Strengthened my own fundamentals through the process of teaching.
+- **Team Lead (2024)** — Led a development team, coordinating deliverables and supporting team members in day-to-day execution.
+
+---
+
+## 📈 Currently Learning
+
+Expanding my backend expertise into the **Java ecosystem** — currently working through a Spring Boot course on Frontend Masters.
+🔗 [Spring Boot Course](https://frontendmasters.com/courses/spring-boot/)
+
+---
+
+## 📊 Stats & Learning
+
+🎓 **1,400+ lessons** completed on Frontend Masters
+🔗 [Frontend Masters Profile](https://frontendmasters.com/u/Armin0001/)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Armin%20Isaković-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/armin-isakovi%C4%87-b07b24215/)
+[![Email](https://img.shields.io/badge/Email-armin.isakovic23%40gmail.com-D14836?style=flat&logo=gmail)](mailto:armin.isakovic23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://portofolio-phi-sepia.vercel.app/signin)
+
+---
+
+*Open to interesting opportunities and collaborations. Feel free to reach out!*
