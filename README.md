@@ -6,8 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering graduate** and full-stack developer with **3+ years of hands-on experience** building web applications. Currently working at **Artco Group**, where I contribute across the full stack — from scalable backend APIs to polished frontend interfaces.
-
+I'm a **Software Engineering graduate** and full-stack developer with **3+ years of hands-on experience** building web applications. Currently working as a Freelance Full Stack Developer, contributing across the full stack — from scalable backend APIs to polished frontend interfaces.
 I care deeply about writing maintainable, well-structured code and continuously pushing my technical boundaries. Based in **Zenica, Bosnia and Herzegovina**.
 
 ---
