@@ -14,19 +14,31 @@ I care deeply about writing maintainable, well-structured code and continuously 
 ## 🛠️ Technical Skills
 
 **Languages**
-`JavaScript` `TypeScript` `Python` `R`
+`JavaScript` `TypeScript` `Python` `R` `SQL`
 
-**Frameworks & Libraries**
-`React` `Next.js` `Node.js` `Nuxt.js`
+**Frontend**
+`React.js` `Next.js` `Nuxt.js` `Vue.js` `SvelteKit` `Redux` `TanStack Query` `Tailwind CSS` `HTML5` `CSS3` `Responsive Design` `Vite`
+
+**Backend**
+`Node.js` `Express.js` `.NET` `RESTful APIs` `GraphQL` `AWS Lambda`
 
 **Databases**
-`PostgreSQL` `MySQL` `MongoDB` `Firebase`
+`PostgreSQL` `MySQL` `MongoDB` `Firebase` `DynamoDB`
 
-**Tools & Platforms**
-`Git / GitHub` `Vercel` `Railway`
+**Testing & Validation**
+`Vitest` `Zod`
+
+**DevOps & Version Control**
+`Docker` `Git` `GitHub` `Bitbucket` `Continuous Integration` `Code Review`
+
+**Cloud & Deployment**
+`Vercel` `Railway` `Netlify`
+
+**Tools**
+`VS Code` `Postman` `npm` `Figma` `Debugging`
 
 **Additional**
-`AI Integration` `REST APIs` `Data Science fundamentals`
+`AI Integration` `TensorFlow.js` `Headless CMS` `SEO Optimization` `Agile/Scrum` `Data Science Fundamentals`
 
 ---
 
