@@ -33,7 +33,7 @@ I care deeply about writing maintainable, well-structured code and continuously 
 ## 🚀 Key Projects
 
 Check out my full project portfolio here:
-🔗 **[armin-portfolio.vercel.app](https://portofolio-phi-sepia.vercel.app/signin)**
+🔗 **[armin-portfolio.vercel.app](https://portofolio-phi-sepia.vercel.app/main)**
 
 **Highlight — AI Movie Suggestor**
 An AI-powered recommendation app that suggests movies based on user preferences. Built with modern web technologies and integrated AI APIs for intelligent, personalized suggestions.
