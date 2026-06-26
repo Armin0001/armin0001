@@ -56,14 +56,6 @@ An AI-powered recommendation app that suggests movies based on user preferences.
 
 - **Mentor (2023)** — Guided 2 junior developers through a 2-month web development bootcamp, covering HTML/CSS/JS fundamentals. Strengthened my own fundamentals through the process of teaching.
 - **Team Lead (2024)** — Led a development team, coordinating deliverables and supporting team members in day-to-day execution.
-
----
-
-## 📈 Currently Learning
-
-Expanding my backend expertise into the **Java ecosystem** — currently working through a Spring Boot course on Frontend Masters.
-🔗 [Spring Boot Course](https://frontendmasters.com/courses/spring-boot/)
-
 ---
 
 ## 📊 Stats & Learning
