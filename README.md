@@ -1,17 +1,17 @@
 ## Experience
 
-**Full Stack Developer** | [cite_start]**Core d.o.o.** *(Sarajevo, Bosnia and Herzegovina)* *April 2023 – April 2026* [cite: 19]
+**Full Stack Developer** | **Core d.o.o.** *(Sarajevo, Bosnia and Herzegovina)* *April 2023 – April 2026*
 
-* [cite_start]**Full-Stack Application Development**: Developed and maintained scalable web applications utilizing **React.js**, **Next.js**, **Firebase**, and **PostgreSQL** within fast-paced Agile/Scrum environments[cite: 20].
-* [cite_start]**Feature Engineering**: Engineered a high-performance multi-criteria database filtering system using **Firebase** to optimize data retrieval and user search experience[cite: 16].
-* [cite_start]**Mentorship & Leadership**: Mentored 2 junior/intern developers from core foundational concepts up to production-ready engineering standards, resulting in a full-time hire[cite: 17].
-* [cite_start]**Architecture & Clean Code**: Promoted robust frontend architecture, reusable UI patterns with **Tailwind CSS**, and modern state management[cite: 9, 11].
+* **Full-Stack Application Development**: Developed and maintained scalable web applications utilizing **React.js**, **Next.js**, **Firebase**, and **PostgreSQL** within fast-paced Agile/Scrum environments.
+* **Feature Engineering**: Engineered a high-performance multi-criteria database filtering system using **Firebase** to optimize data retrieval and user search experience.
+* **Mentorship & Leadership**: Mentored 2 junior/intern developers from core foundational concepts up to production-ready engineering standards, resulting in a full-time hire.
+* **Architecture & Clean Code**: Promoted robust frontend architecture, reusable UI patterns with **Tailwind CSS**, and modern state management.
 
 ---
 
-**Pro Bono Web Developer** | [cite_start]**Client Project** *(Zenica, Bosnia and Herzegovina)* *2022* [cite: 28]
+**Pro Bono Web Developer** | **Client Project** *(Zenica, Bosnia and Herzegovina)* *2022*
 
-* [cite_start]**Client Delivery**: Designed and launched a custom web application for a local hair salon business to streamline their digital presence[cite: 28].
+* **Client Delivery**: Designed and launched a custom web application for a local hair salon business to streamline their digital presence.
 
 ---
 
