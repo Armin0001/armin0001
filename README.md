@@ -1,76 +1,47 @@
-# Armin Isaković — Full Stack Developer
+## Experience
 
-> Crafting performant web applications with clean architecture and a strong eye for product quality.
+**Full Stack Developer** | [cite_start]**Core d.o.o.** *(Sarajevo, Bosnia and Herzegovina)* [cite: 19]  
+[cite_start]*April 2023 – April 2026* [cite: 19]
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Software Engineering graduate** and full-stack developer with **3+ years of hands-on experience** building web applications. Currently working as a Freelance Full Stack Developer, contributing across the full stack — from scalable backend APIs to polished frontend interfaces.
-I care deeply about writing maintainable, well-structured code and continuously pushing my technical boundaries. Based in **Zenica, Bosnia and Herzegovina**.
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-`JavaScript` `TypeScript` `Python` `R` `SQL`
-
-**Frontend**
-`React.js` `Next.js` `Nuxt.js` `Vue.js` `SvelteKit` `Redux` `TanStack Query` `Tailwind CSS` `HTML5` `CSS3` `Responsive Design` `Vite`
-
-**Backend**
-`Node.js` `Express.js` `.NET` `RESTful APIs` `GraphQL` `AWS Lambda`
-
-**Databases**
-`PostgreSQL` `MySQL` `MongoDB` `Firebase` `DynamoDB`
-
-**Testing & Validation**
-`Vitest` `Zod`
-
-**DevOps & Version Control**
-`Docker` `Git` `GitHub` `Bitbucket` `Continuous Integration` `Code Review`
-
-**Cloud & Deployment**
-`Vercel` `Railway` `Netlify`
-
-**Tools**
-`VS Code` `Postman` `npm` `Figma` `Debugging`
-
-**Additional**
-`AI Integration` `TensorFlow.js` `Headless CMS` `SEO Optimization` `Agile/Scrum` `Data Science Fundamentals`
+* [cite_start]**Full-Stack Application Development**: Developed and maintained scalable web applications utilizing **React.js**, **Next.js**, **Firebase**, and **PostgreSQL** [cite: 20] [cite_start]within fast-paced Agile/Scrum environments[cite: 20].
+* [cite_start]**Feature Engineering**: Engineered a high-performance multi-criteria database filtering system using **Firebase** to optimize data retrieval and user search experience[cite: 16].
+* [cite_start]**Mentorship & Leadership**: Mentored 2 junior/intern developers from core foundational concepts up to production-ready engineering standards, resulting in a full-time hire[cite: 17].
+* [cite_start]**Architecture & Clean Code**: Promoted robust frontend architecture, reusable UI patterns with **Tailwind CSS**, and modern state management[cite: 9, 11, 30].
 
 ---
 
-## 🚀 Key Projects
+**Pro Bono Web Developer** | [cite_start]**Client Project** *(Zenica, Bosnia and Herzegovina)* [cite: 28]  
+[cite_start]*2022* [cite: 28]
 
-Check out my full project portfolio here:
-🔗 **[armin-portfolio.vercel.app](https://portofolio-phi-sepia.vercel.app/main)**
-
-**Highlight — AI Movie Suggestor**
-An AI-powered recommendation app that suggests movies based on user preferences. Built with modern web technologies and integrated AI APIs for intelligent, personalized suggestions.
+* [cite_start]**Client Delivery**: Designed and launched a custom web application for a local hair salon business to streamline their digital presence[cite: 28].
 
 ---
 
-## 🌟 Leadership & Mentorship
+## What I've Built
 
-- **Mentor (2023)** — Guided 2 junior developers through a 2-month web development bootcamp, covering HTML/CSS/JS fundamentals. Strengthened my own fundamentals through the process of teaching.
-- **Team Lead (2024)** — Led a development team, coordinating deliverables and supporting team members in day-to-day execution.
+### Featured Projects
+
+* **Full-Stack Journal Application** *A modern, secure journaling platform featuring seamless serverless performance and clean writing spaces.*
+  * **Key Stack**: Next.js, Prisma ORM, Clerk Authentication, Tailwind CSS, Vercel.
+
+* **Multi-Criteria Ticket Filtering App** *A highly responsive ticketing filter application built to handle structured query lookups efficiently.*
+  * **Key Stack**: Next.js, Firebase Firestore, Custom Node.js database seeding scripts.
+
+* **Django Blog Platform** *A clean, robust blogging platform built with a focus on stable deployment infrastructure and routing.*
+  * **Key Stack**: Python, Django, Gunicorn, Railway.
+  
+* **Excalidraw AI** *An AI-powered diagramming agent that translates plain English system descriptions into visual architecture layouts, featuring self-correcting design flow and private knowledge base integrations.*
+  * **Key Stack**: TypeScript, Cloudflare Workers, Excalidraw API, AI/LLM integration.
+
+* **Ether Perfume** *An immersive landing page for a luxury fragrance brand utilizing custom WebGL/GLSL shaders to render 26,000 GPU-accelerated particles that visualize scent dynamics, synced with high-performance scroll animations.*
+  * **Key Stack**: Next.js, TypeScript, GLSL, Three.js (GPU particles), GSAP ScrollSmoother.
+
 ---
 
-## 📊 Stats & Learning
+### Core Technical Toolbox
 
-🎓 **1,400+ lessons** completed on Frontend Masters
-🔗 [Frontend Masters Profile](https://frontendmasters.com/u/Armin0001/)
-
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Armin%20Isaković-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/armin-isakovi%C4%87-b07b24215/)
-[![Email](https://img.shields.io/badge/Email-armin.isakovic23%40gmail.com-D14836?style=flat&logo=gmail)](mailto:armin.isakovic23@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://portofolio-phi-sepia.vercel.app/signin)
-
----
-
-*Open to interesting opportunities and collaborations. Feel free to reach out!*
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | [cite_start]React.js [cite: 30][cite_start], Next.js [cite: 30][cite_start], TypeScript [cite: 30][cite_start], JavaScript (ES6+) [cite: 8, 30][cite_start], SvelteKit [cite: 30][cite_start], Vue.js [cite: 30][cite_start], Tailwind CSS [cite: 30][cite_start], HTML5/CSS3 [cite: 30] |
+| **Backend & DB** | [cite_start]Node.js [cite: 30][cite_start], Express.js [cite: 30][cite_start], .NET [cite: 30][cite_start], PostgreSQL [cite: 30][cite_start], MongoDB [cite: 30][cite_start], Firebase [cite: 30][cite_start], DynamoDB [cite: 30][cite_start], SQL [cite: 30][cite_start], RESTful APIs [cite: 30][cite_start], GraphQL [cite: 30] |
+| **DevOps & Tools** | [cite_start]Docker [cite: 30][cite_start], AWS Lambda [cite: 30][cite_start], Git/GitHub [cite: 30][cite_start], Vitest [cite: 30][cite_start], Postman [cite: 30][cite_start], Vercel [cite: 30][cite_start], CI/CD [cite: 14, 30] |
