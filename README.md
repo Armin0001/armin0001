@@ -16,10 +16,12 @@ I'm currently based in Bosnia and Herzegovina, and I'm always interested in inte
 - Had the chance to mentor two junior developers and help them grow into their roles.
 - Collaborated with developers, designers, and clients to turn ideas into working products.
 
-**Freelance / Pro Bono Web Developer**  
-*2022 · Zenica, Bosnia and Herzegovina*
+**Node.js Developer @ WellBeing**  
+*March 2023 – May 2023 · Remote · US-based client*
 
-- Built and launched a custom web application for a local hair salon.
+- Worked on the development and maintenance of several websites using Node.js.
+- Collaborated with a distributed team across different time zones.
+- Took part in weekly stand-ups, ticket-based development, and day-to-day team collaboration.
 
 ## Things I've built 🚀
 
