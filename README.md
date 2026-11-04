@@ -1,35 +1,66 @@
-## Experience
+# Hey, I'm Armin! 👋
 
-**Full Stack Developer** | **Core d.o.o.** *(Sarajevo, Bosnia and Herzegovina)* *April 2023 – April 2026*
+I'm a software developer who enjoys building things for the web, experimenting with new technologies, and occasionally going down rabbit holes trying to figure out how something works.
 
-* **Full-Stack Application Development**: Developed and maintained scalable web applications utilizing **React.js**, **Next.js**, **Firebase**, and **PostgreSQL** within fast-paced Agile/Scrum environments.
-* **Feature Engineering**: Engineered a high-performance multi-criteria database filtering system using **Firebase** to optimize data retrieval and user search experience.
-* **Mentorship & Leadership**: Mentored 2 junior/intern developers from core foundational concepts up to production-ready engineering standards, resulting in a full-time hire.
-* **Architecture & Clean Code**: Promoted robust frontend architecture, reusable UI patterns with **Tailwind CSS**, and modern state management.
+Most of my experience is with **React, Next.js, TypeScript, and Node.js**, but I'm always happy to explore something new. I enjoy working on everything from practical full-stack applications to creative frontend experiments.
+
+I'm currently based in Bosnia and Herzegovina, and I'm always interested in interesting projects, new ideas, and meeting people who enjoy building cool stuff.
+
+## A little about my journey
+
+**Full Stack Developer @ Core d.o.o.**  
+*April 2023 – April 2026 · Sarajevo, Bosnia and Herzegovina*
+
+- Worked on production web applications using React, Next.js, Firebase, and PostgreSQL.
+- Built features ranging from complex filtering systems to reusable UI components and full-stack functionality.
+- Had the chance to mentor two junior developers and help them grow into their roles.
+- Collaborated with developers, designers, and clients to turn ideas into working products.
+
+**Freelance / Pro Bono Web Developer**  
+*2022 · Zenica, Bosnia and Herzegovina*
+
+- Built and launched a custom web application for a local hair salon.
+
+## Things I've built 🚀
+
+A few projects I'm particularly happy with:
+
+### [Excalidraw AI](https://github.com/Armin0001/excalidraw-ai)
+An AI-powered diagramming tool that turns plain-English descriptions into visual system architectures. Basically, describe what you're building and let AI help draw it.
+
+`TypeScript` `Cloudflare Workers` `Excalidraw API` `LLMs`
+
+### [Ether Perfume](https://github.com/Armin0001/ether-perfume)
+A little experiment in pushing frontend visuals further. An immersive fragrance landing page featuring 26,000 GPU-powered particles, custom shaders, and scroll-driven animations.
+
+`Next.js` `TypeScript` `Three.js` `GLSL` `GSAP`
+
+### [Full-Stack Journal Application](https://github.com/Armin0001)
+A modern journaling application with authentication, a clean writing experience, and a serverless architecture.
+
+`Next.js` `Prisma` `Clerk` `Tailwind CSS` `Vercel`
+
+### [Multi-Criteria Ticket Filtering](https://github.com/Armin0001/ticket-filter-system)
+A ticket filtering application built around structured database queries and multiple filtering criteria.
+
+`Next.js` `Firebase Firestore` `Node.js`
+
+### [Django Blog Platform](https://github.com/Armin0001/Django-Blog-Website)
+A straightforward blogging platform built with Django, with a focus on clean structure and reliable deployment.
+
+`Python` `Django` `Gunicorn` `Railway`
 
 ---
 
-**Pro Bono Web Developer** | **Client Project** *(Zenica, Bosnia and Herzegovina)* *2022*
+## My usual toolbox 🛠️
 
-* **Client Delivery**: Designed and launched a custom web application for a local hair salon business to streamline their digital presence.
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Databases:** PostgreSQL, Firebase, MongoDB
+- **Other stuff:** Git, Docker, Vercel, Cloudflare
 
----
+## Outside of coding
 
-## What I've Built
+I like exploring new technologies, experimenting with side projects, and learning how things work under the hood. There's always something new to try, and that's probably one of my favourite things about software development.
 
-### Featured Projects
-
-* **[Excalidraw AI](https://github.com/Armin0001/excalidraw-ai)** *An AI-powered diagramming agent that translates plain English system descriptions into visual architecture layouts, featuring self-correcting design flow and private knowledge base integrations.*
-  * **Key Stack**: TypeScript, Cloudflare Workers, Excalidraw API, AI/LLM integration.
-
-* **[Ether Perfume](https://github.com/Armin0001/ether-perfume)** *An immersive landing page for a luxury fragrance brand utilizing custom WebGL/GLSL shaders to render 26,000 GPU-accelerated particles that visualize scent dynamics, synced with high-performance scroll animations.*
-  * **Key Stack**: Next.js, TypeScript, GLSL, Three.js (GPU particles), GSAP ScrollSmoother.
-
-* **[Full-Stack Journal Application](https://github.com/Armin0001)** *A modern, secure journaling platform featuring seamless serverless performance and clean writing spaces.*
-  * **Key Stack**: Next.js, Prisma ORM, Clerk Authentication, Tailwind CSS, Vercel.
-
-* **[Multi-Criteria Ticket Filtering App](https://github.com/Armin0001/ticket-filter-system)** *A highly responsive ticketing filter application built to handle structured query lookups efficiently.*
-  * **Key Stack**: Next.js, Firebase Firestore, Custom Node.js database seeding scripts.
-
-* **[Django Blog Platform](https://github.com/Armin0001/Django-Blog-Website)** *A clean, robust blogging platform built with a focus on stable deployment infrastructure and routing.*
-  * **Key Stack**: Python, Django, Gunicorn, Railway.
+Thanks for stopping by! Feel free to explore my repositories. 😊
